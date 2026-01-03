@@ -62,7 +62,8 @@ pip install -r requirements.txt
 
 **The most important step!** Download the compression engine tools from this Google Drive link:
 
-**📦 [Download Engine Folder]([https://drive.google.com/drive/folders/1a1G6QkbK8qCHQApnTfNoDyr6z62UrHGJ?usp=sharing])**
+**📦 [Download Engine Folder]**
+https://drive.google.com/drive/folders/1a1G6QkbK8qCHQApnTfNoDyr6z62UrHGJ?usp=sharing
 
 After downloading:
 1. Extract the contents
