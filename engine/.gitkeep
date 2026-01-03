@@ -1,0 +1,3 @@
+# This file ensures the engine folder is tracked by git
+# The actual .exe files are excluded via .gitignore
+

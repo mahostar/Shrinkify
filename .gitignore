@@ -1,0 +1,47 @@
+# Folders to exclude
+older_versions/
+installer_build/
+engine/*.exe
+dist/
+build/
+__pycache__/
+venv/
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Config files (if containing sensitive data)
+# optimizer_config.json
+
+# Installer builds
+*.exe
+!engine/.gitkeep
+
